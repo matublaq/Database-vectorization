@@ -1,0 +1,8 @@
+Primer objetico del programa: 
+
+Generar una base de datos relacional a partir de un archivo .csv. 
+    Para ello usaré IA, pero pasarle el .csv y decir que lo haga podría salir miles de dólares la consulta si el archivo es muy pesado. 
+        Hay que sacar métricas y compartirlas con el modelo para que el prompt tenga la menor cantidad de caracteres y mayor información posible. 
+        Es importante que se genere el código no solo del CREATE de las tablas, sinó que también el DROP e INSERT. 
+
+ 
